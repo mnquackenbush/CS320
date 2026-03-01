@@ -12,8 +12,7 @@ For security, I implement input validation to prevent malicious data from enteri
 How do I interpret user needs and incorporate them into a program?
 
 I interpret user needs by carefully reading the requirements and identifying the key constraints and business rules listed by the specific organization.
-I break down vague requirements by asking clarifying questions and creating specific test cases that validate my understanding 
-- for example, if a requirement says "name cannot be too long," I need to determine the exact character limit.
+I break down vague requirements by asking clarifying questions and creating specific test cases that validate my understanding (for example, if a requirement says "name cannot be too long," I need to determine the exact character limit.)
 I also think about how users will actually interact with the system, considering realistic scenarios to account for what real users may input.
 By translating requirements into concrete test cases first, I ensure that the code I write directly addresses what users need.
 
